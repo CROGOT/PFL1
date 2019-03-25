@@ -22,20 +22,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="347" column="12" lean-forward="true" selection-start-line="347" selection-start-column="12" selection-end-line="347" selection-end-column="12" />
+            <state relative-caret-position="248">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               <folding>
                 <element signature="e#4747#5551#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -48,6 +39,7 @@
       <find>menu</find>
       <find>gam</find>
       <find>geo</find>
+      <find>tra</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,7 +94,7 @@
     <property name="last_opened_file_path" value="C:/Ruby25-x64/bin/scss.bat" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,12 +121,12 @@
       <workItem from="1553343259366" duration="1037000" />
       <workItem from="1553505510673" duration="100000" />
       <workItem from="1553505839908" duration="904000" />
-      <workItem from="1553506757852" duration="2660000" />
+      <workItem from="1553506757852" duration="4852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4701000" />
+    <option name="totallyTimeSpent" value="6893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="33" width="1145" height="905" extended-state="0" />
@@ -174,15 +166,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="231">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="347" column="12" lean-forward="true" selection-start-line="347" selection-start-column="12" selection-end-line="347" selection-end-column="12" />
+        <state relative-caret-position="248">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="e#4747#5551#0" />
           </folding>
