@@ -15,16 +15,25 @@
 					<div class="box_logo">
 						<a href="/"class="logo"></a> 
 					</div>
-					<div class="menu">
-						<ul>
-							<li><a href="#">Speakers</a></li>
-							<li><a href="#">Programme</a></li>
-							<li><a href="#">Social Events</a></li>
-							<li><a href="#">Contact</a></li>
-						</ul>
+					<div class="tab_menu">
+						<div class="menu">
+							<ul>
+								<li><a href="#">Speakers</a></li>
+								<li><a href="#">Programme</a></li>
+								<li><a href="#">Social Events</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</div>
 					</div>
-					<div class="tab"></div>
-					<a class="gamburger" href="#">☰</a>
+					<div class="gamburger" href=""><i class="fa fa-bars" aria-hidden="true"></i></div>
+					<script>
+						var but = document.querySelector('.gamburger');
+						var menu = document.querySelector('.menu');
+
+						but.onclick = function() {
+							menu.classList.toggle('hide_menu');
+						};
+					</script>
 				</div>
 			</div>
 			<div class="content">
